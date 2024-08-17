@@ -1,2 +1,2 @@
 # fullstack-app
-Go and HTMX Fullstack App
+Go and HTMX Fullstack App.
